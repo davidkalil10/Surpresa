@@ -69717,8 +69717,7 @@ const firebaseConfig = {
             }
         },
         a1W: function(a, b) {
-            var s "" + "Ticker("
-            s = "" + "Ticker()"
+            var s = "" + "Ticker()"
             return s.charCodeAt(0) == 0 ? s : s
         },
         i: function(a) { return this.a1W(a, !1) }
