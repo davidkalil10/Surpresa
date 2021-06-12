@@ -1,14 +1,3 @@
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
-    apiKey: "AIzaSyAu2A0Ip4o8zOJUCcPaWZiuF2vMEDoNzVM",
-    authDomain: "teamo-8cecd.firebaseapp.com",
-    projectId: "teamo-8cecd",
-    storageBucket: "teamo-8cecd.appspot.com",
-    messagingSenderId: "977669313952",
-    appId: "1:977669313952:web:37eed34b9caed1c61040c5",
-    measurementId: "G-K0EXNSK51F"
-};
-
 
 (function dartProgram() {
     function copyProperties(a, b) {
